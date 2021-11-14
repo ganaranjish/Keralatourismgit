@@ -1,0 +1,111 @@
+*{
+    padding:0;
+    margin: 0;
+
+}
+/* .home-bg{ 
+    background: url(../Images/kerala/kerala12.jpg)no-repeat;
+    background-size: cover;
+    width: 100%;
+    display: block;
+ } */
+.text-white a{
+color: #fff !important;
+}
+body{
+    background: url(../Images/kerala/kerala5.jpg);
+    background-size:cover;
+}
+.myMargin{
+    margin: 25px;
+}
+.card{
+    margin:10px;
+}
+navbar-light .navbar-toggler {
+    color: white;
+    border-color: white;
+}
+i{
+    color: aqua;
+}
+
+
+
+
+/*contact-form .form-group input{
+    width: 100%;
+    height: 100%;
+    border: 1px solid lightgrey;
+    padding-left: 15px;
+    outline: none;
+    border-radius: 5px;
+    font-size: 17px;
+    transition: all 0.3s;
+  }
+  contact-form .form-group input:focus{
+    border-color: #27ae60;
+    box-shadow: inset 0 0 3px #2fd072;
+  }
+  contact-form .form-group .showBtn{
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    display: none;
+    user-select: none;
+  }
+  contact-form .indicator{
+    height: 10px;
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    display: none;
+  }
+  contact-form .indicator span{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background: lightgrey;
+    border-radius: 5px;
+  }
+  contact-form .indicator span:nth-child(2){
+    margin: 0 3px;
+  }
+  contact-form .indicator span.active:before{
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+  }
+  .indicator span.weak:before{
+    background-color: #ff4757;
+  }
+  .indicator span.medium:before{
+    background-color: orange;
+  }
+  .indicator span.strong:before{
+    background-color: #23ad5c;
+  }
+  contact-form .text{
+    font-size: 20px;
+    font-weight: 500;
+    display: none;
+    margin-bottom: -10px;
+  }
+  contact-form .text.weak{
+    color: #ff4757;
+  }
+  contact-form .text.medium{
+    color: orange;
+  }
+  contact-form .text.strong{
+    color: #23ad5c;
+  }*/
